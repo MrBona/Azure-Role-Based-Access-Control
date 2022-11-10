@@ -18,6 +18,7 @@
 #### Assign the Virtual Machine Contributor role to the Service Desk group.
 1. Create a resource group.
 2. Assign the Service Desk Virtual Machine Contributor permissions to the resource group.
+
 ![access role](https://user-images.githubusercontent.com/16262170/201227853-74d6b683-d87b-4426-8bfb-a982a9cd69e2.jpg)
 ![Azure ad user list](https://user-images.githubusercontent.com/16262170/201227865-4d79708b-186d-43c6-bdc6-37f955ee0f22.jpg)
 ![create resource group](https://user-images.githubusercontent.com/16262170/201227870-15df7f1b-171e-4497-8b19-a8b73ee47da5.jpg)
